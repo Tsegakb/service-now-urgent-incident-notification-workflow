@@ -8,7 +8,8 @@ Priority = 1 - Critical
 Verified and updated the “Network Operations/Network” user group to ensure correct recipients.
 Configured the email To be sent: Network  group
 3. 
-<img width="883" height="371" alt="WL drawio" src="https://github.com/user-attachments/assets/818231d1-d440-44c8-be33-6d61e712ed92" />
+
+<img width="883" height="371" alt="Diagram png" src="https://github.com/user-attachments/assets/0ac74797-1666-439d-9ae9-1a177d25ac9f" />
 
 AI Scenario:
 AI agents can intelligently route critical incidents by analyzing engineer expertise, availability, and workload in real time. Instead of static escalation 
